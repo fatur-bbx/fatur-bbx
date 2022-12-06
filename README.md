@@ -30,3 +30,6 @@ Diluar bahasa pemrograman :
 4. Joki tugas sekolah
 5. Joki tugas kuliah
 6. Ngajar
+
+Aktivitas :
+Coming Soon
